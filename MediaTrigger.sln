@@ -1,0 +1,40 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaTrigger", "MediaTrigger.csproj", "{F0A5E5D0-CDD3-417E-97EB-161159BD12BF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7C64DD1C-3A83-4A3E-9417-E90B417BB46C}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0A5E5D0-CDD3-417E-97EB-161159BD12BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0A5E5D0-CDD3-417E-97EB-161159BD12BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0A5E5D0-CDD3-417E-97EB-161159BD12BF}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{F0A5E5D0-CDD3-417E-97EB-161159BD12BF}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{F0A5E5D0-CDD3-417E-97EB-161159BD12BF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F0A5E5D0-CDD3-417E-97EB-161159BD12BF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F0A5E5D0-CDD3-417E-97EB-161159BD12BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0A5E5D0-CDD3-417E-97EB-161159BD12BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0A5E5D0-CDD3-417E-97EB-161159BD12BF}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{F0A5E5D0-CDD3-417E-97EB-161159BD12BF}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{F0A5E5D0-CDD3-417E-97EB-161159BD12BF}.Release|x64.ActiveCfg = Release|Any CPU
+		{F0A5E5D0-CDD3-417E-97EB-161159BD12BF}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
