@@ -6,7 +6,7 @@ Plays a media asset when commands are typed on the keyboard.
 1. .NET Framework 4.5 installed
 
 ## Setup
-1. Copy the \bin\[Debug|Release]\ files to your local computer.
+1. Copy the \bin\\[Debug|Release]\ files to your local computer.
 1. Create your records file that contains the mappings between identifiers and media assets. Must be a comma-delimited list. See the records.txt in the project for an example. Paths in the records.txt file can be absolute. If the paths are not absolute, then the `AssetFileRoot` .exe.config value is prepended to the path.
 1. Edit the MediaTrigger.exe.config file. Update the `RecordFilePath` setting to point to where your records file is - must be an absolute path. Update the `AssetFileRoot` setting to point to the root directory where your media assets are stored.
 1. Run the MediaTrigger.exe application. It runs silently - no window will appear. To stop the application, you will need to enter `quit` on the keyboard followed by the enter key.
